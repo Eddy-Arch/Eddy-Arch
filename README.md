@@ -3,4 +3,4 @@
 ##### also check out my website, stuff happens there
 <img src="https://cdn.discordapp.com/attachments/641117859552165915/744244008251031693/penguin.gif"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+     style="float: center; margin-right: 10px;" />
